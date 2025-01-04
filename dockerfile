@@ -8,5 +8,5 @@ RUN pip3 install flask
 
 COPY app.py /app.py
 
-ENTRYPOINT["python3999999999" , "/app.py"]
+ENTRYPOINT["python39" , "/app.py"]
 
