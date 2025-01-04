@@ -1,6 +1,6 @@
 FROM redhat/ubi8
 
-RUN yum install python 39 -y
+RUN yum install python39 -y
 
 EXPOSE 5000
 
